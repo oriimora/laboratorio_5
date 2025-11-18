@@ -1,2 +1,2 @@
-# laaboratorio_5
+# Laboratorio 5
 Pogramacion Bajo Plataformas Abiertas: Laboratorio 5
